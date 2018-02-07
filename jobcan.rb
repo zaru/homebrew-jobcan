@@ -1,9 +1,9 @@
 class Jobcan < Formula
   desc "jobcan cli"
   homepage "https://github.com/zaru/jobcan"
-  url "https://github.com/zaru/jobcan/releases/download/v0.2.1/jobcan_0.2.1_darwin_amd64.tar.gz"
-  version "0.2.1"
-  sha256 "e8af377d8b204dcaa26c0e3841a2b57d49977cf128388d693e68157795a679ae"
+  url "https://github.com/zaru/jobcan/releases/download/v0.2.2/jobcan_0.2.2_darwin_amd64.tar.gz"
+  version "0.2.2"
+  sha256 "f54df6a134ef5b3e5b036a56ad9de8585dfcaf9be524259afe6b35f09ad69389"
   
   depends_on "fzf"
 
